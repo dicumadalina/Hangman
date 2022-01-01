@@ -1,1 +1,1 @@
-# Hangman
+# Hangman - **JetBrains Academy**
